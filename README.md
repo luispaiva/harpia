@@ -1,2 +1,2 @@
-# harpia
-Tema desenvolvido para integração com o WooCommerce.
+# Harpia
+Tema desenvolvido para integração com o plugin WooCommerce.
